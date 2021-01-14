@@ -49,5 +49,6 @@ input, textarea {
 }
 .contact {
     display: block;
+    
 }
 </style>
