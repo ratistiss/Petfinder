@@ -1,4 +1,4 @@
-# sampleapp
+A Simple Petfinding App, so I could play with Vue. Makes Calls to the Petfinder Api which uses Oauth.
 
 ## Project setup
 ```
